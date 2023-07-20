@@ -31,7 +31,7 @@ function KnowYourMovie() {
         <p>Year    : {yourMovie.Year} </p>
         <p>imdbID  : {yourMovie.imdbID}</p>
         <p>Type    : {yourMovie.Type}</p>
-        <p></p>
+        <br></br>
       </div>
     </>
   );
